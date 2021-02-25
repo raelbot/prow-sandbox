@@ -1,0 +1,10 @@
+filters:
+  ".*":
+    reviewers:
+      - raelga
+      - roivaz
+      - slopezz
+    approvers:
+      - raelga
+      - roivaz
+      - slopezz
